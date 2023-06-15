@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.h1{
+    width: 240px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor:pointer;
+    color: #fff;
+    transition: 0.4s ease;
+}
+.h1:hover{
+    background: #fff;
+    color: #ff7200;
+}
